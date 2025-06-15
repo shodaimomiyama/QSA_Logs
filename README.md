@@ -28,3 +28,7 @@
   --target "blog-post" \
   QSA project-management workflow-optimization
 ```
+
+[思考フローのベース記事]
+
+https://qiita.com/hann-solo/items/f95c5c7bca38cd628107
